@@ -1,0 +1,4 @@
+.container {
+	width: 800px;
+	margin: 0 auto; /* 0 for top and bottom and spread evenly for L/R */
+}

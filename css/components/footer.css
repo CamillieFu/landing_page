@@ -1,0 +1,27 @@
+.footer {
+  background-color: aliceblue;
+  background-size: cover;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+  color: rgba(111, 84, 38, 0.7);
+}
+
+.footer .inline-block li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.footer .inline-block {
+  padding-left: 0px;
+  margin: 0;
+}
+
+.footer a {
+  color: rgba(140, 107, 51, 0.7);
+  font-size: 24px;
+}
+
+.footer a:hover {
+  color: rgba(89, 65, 25, 0.7);
+}
